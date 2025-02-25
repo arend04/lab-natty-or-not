@@ -23,4 +23,6 @@ Nas imagens foi mais trabalhoso, pois foi a primeira vez que criei imagens e tin
 ## 💭 Reflexão (Opcional)
 A cada dia que passa a IA é aprimorada. Meu projeto pode passar como Natty para as pessoas que não olharem com calma, mas com um pouco de atenção é perceptível que foi criado por IA.
 As ferramentas de IA nos facilitam muito na criação de conteúdo, mas não excluem a revisão de um ser humano.
-No fim das contas, a IA é uma ferramenta poderosa, mas o toque humano é insubstituível
+No fim das contas, a IA é uma ferramenta poderosa, mas o toque humano é insubstituível.
+
+A capa do livro ficou em inglês porque, com a ferramenta que estava utilizando, o título saía errado em português.

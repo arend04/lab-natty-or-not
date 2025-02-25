@@ -1,51 +1,26 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Criação de um livro, capa e autora 📒
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um livro (na verdade os três primeiros capítulos), uma identidade para autora, foto da autora e capa do livro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa https://www.deepseek.com/ para criar a história e a autora
+IA Generativa Dream Lab do https://www.canva.com/ para criar a capa do livro
+IA Generativa https://leonardo.ai/ para criar a foto da autora
+A Imagem da orelha do livro com a foto da autora foi criada no Canva
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei ao DeepSeek que criasse um livro baseado em uma ideia de história que passei para o prompt de comando. Após a criação inicial, solicitei mais detalhamentos em algumas partes do texto gerado.
+Nas imagens foi mais trabalhoso, pois foi a primeira vez que criei imagens e tinha a limitação de usar somente ferramentas na versão gratuita.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Livro](https://github.com/arend04/lab-natty-or-not/blob/main/Livro/Livro.mkd)
+
+[Capa](https://github.com/arend04/lab-natty-or-not/blob/main/Livro/Capa.jpg)
+
+[Autora](https://github.com/arend04/lab-natty-or-not/blob/main/Livro/Orelha%20Livro%20-%20autor.jpg)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A cada dia que passa a IA é aprimorada. Meu projeto pode passar como Natty para as pessoas que não olharem com calma, mas com um pouco de atenção é perceptível que foi criado por IA.
+As ferramentas de IA nos facilitam muito na criação de conteúdo, mas não excluem a revisão de um ser humano.
+No fim das contas, a IA é uma ferramenta poderosa, mas o toque humano é insubstituível

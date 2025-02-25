@@ -38,7 +38,8 @@ O título deve aparecer exatamente escrito como na descrição.  Se trata de um 
 Gerou capa com erros.
 
 O título deve aparecer exatamente escrito como na descrição.  Se trata de um romance que se passa em 2020. Uma capa de livro com um casal de mulheres sentadas abraçadas, em uma paisagem europeia, com tons suaves e um título centralizado.  Nome da autora: Isabella Marques. Colocar no topo da capa: More than 5 million books sold wordwide. Título do Livro: From the Other Side of the World
-Foi o melhor resultado
+
+## Foi o melhor resultado
 
 # Orelha do livro 
 A orelha do livro com informações da autora foi criada no canva, usando a descrição da autora feita no DeepSeek e a foto do Leonardo IA.
